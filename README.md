@@ -6,7 +6,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucassantana&hide_progress=true)
 
 ### Tecnologias 
+
 <div style="display: inline_block"><br/>
-  <img align="center" alt="HTML" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="html" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
 </div>
