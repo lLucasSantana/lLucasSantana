@@ -1,1 +1,2 @@
-### Olá, tudo bem? meu nome é Lucas, tenho 20 anos e sou do RS! Sou iniciante na programação, aprendendo HTML e CSS!
+### Olá, tudo bem? eu sou o Lucas Santana ✋
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucassantana/)
