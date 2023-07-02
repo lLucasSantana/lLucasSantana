@@ -3,7 +3,7 @@
 
 ![Lucas Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=llucassantana&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucassantana&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)https://github-readme-stats.vercel.app/api/top-langs/?username={llucassantana}&theme=blue-green
+	https://github-readme-stats.vercel.app/api/top-langs/?username={llucassantana}&theme=blue-green
 
 ### Tecnologias 
 <div style"display: inline_block"><br/>
