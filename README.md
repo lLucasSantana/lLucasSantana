@@ -1,8 +1,11 @@
-### Olá, tudo bem? bem-vindo(a) a essa página!✋
+### Olá, tudo bem? Seja bem-vindo(a) a minha página!✋
 
+Lucas Santana, 21 anos, sou um desenvolvedor Front-end com formação técnica em Informática. Atualmente, estou cursando Análise e Desenvolvimento de 
+Sistemas (ADS)
 
 - 👨‍💻 Front-end
 - 🎓 Graduando em ADS
+
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucassantana/) 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmsantana1509@gmail.com?subject=&body=) 
@@ -19,3 +22,4 @@
 
 
 </div>
+
