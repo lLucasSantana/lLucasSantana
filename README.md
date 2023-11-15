@@ -1,4 +1,13 @@
-### Olá, tudo bem? eu sou o Lucas!✋
+### Olá, tudo bem? bem-vindo(a) a essa página!✋
+
+Lucas Santana, 21 anos, é um desenvolvedor Front-end com formação técnica em Informática. Atualmente, está cursando Análise e Desenvolvimento de Sistemas (ADS) para aprimorar suas habilidades e conhecimentos na área de desenvolvimento de software.
+
+Sua paixão pela informática começou na infância, quando participou de diversos cursos relacionados à área. Essa experiência o inspirou a seguir uma carreira no desenvolvimento de software.
+
+Neste momento, Lucas está focando seus estudos em programação, buscando constantemente aprimorar suas habilidades como desenvolvedor Front-end, enquanto continua sua jornada na área de tecnologia.
+
+                                              Sobre Mim 👨‍💻
+
 - 👨‍💻 Front-end
 - 🎓 Graduando em ADS
 
