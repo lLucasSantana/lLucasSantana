@@ -2,9 +2,9 @@
 
 - Lucas Santana, 21 anos, sou um desenvolvedor Front-end com formação técnica em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.
 
-- Minha paixão pela informática começou na infância, quando participou de diversos cursos relacionados à área. Essa experiência o inspirou a seguir uma carreira no desenvolvimento de software.
+- Minha paixão pela informática começou na infância, quando participei de diversos cursos relacionados à área. Essa experiência me inspirou a seguir uma carreira no desenvolvimento de software.
 
-- Neste momento, estou focando seus estudos em programação, buscando constantemente aprimorar minhas habilidades como desenvolvedor Front-end, minha meta é ser um Full Stack. 
+- Neste momento, estou focando seus estudos em programação, buscando constantemente aprimorar minhas habilidades como desenvolvedor Front-end, minha meta é ser um Full Stack.
 
 - 👨‍💻 Front-end
 - 🎓 Graduando em ADS
