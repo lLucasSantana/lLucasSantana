@@ -4,7 +4,7 @@
 
 - Neste momento, estou focando meus estudos em programação, buscando constantemente aprimorar minhas habilidades como desenvolvedor Front-end, minha meta é ser um Full Stack.
 
-- 👨‍💻 Full Stack
+- 👨‍💻 Desenvolvedor
 - 🎓 Graduando em ADS
 - 🎓 Graduando em ADM
 
