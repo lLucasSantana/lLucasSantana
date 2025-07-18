@@ -1,11 +1,12 @@
-### Olá, tudo bem? Seja bem-vindo(a) a minha página!✋
+### Olá, tudo bem? Seja bem-vindo(a) a minha página do GitHub!✋
 
 - Lucas Santana, 22 anos, sou um desenvolvedor Front-end com formação técnica em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.
 
 - Neste momento, estou focando meus estudos em programação, buscando constantemente aprimorar minhas habilidades como desenvolvedor Front-end, minha meta é ser um Full Stack.
 
-- 👨‍💻 Front-end
+- 👨‍💻 Full Stack
 - 🎓 Graduando em ADS
+- 🎓 Graduando em ADM
 
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucassantana/) 
