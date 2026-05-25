@@ -92,14 +92,10 @@ My main area of interest today is **Front-end Development**, with the long-term 
 <div align="center">
 
 <img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=llucassantana&show_icons=true&theme=tokyonight"/>
-
-<img
-height="180em"
 src="https://streak-stats.demolab.com?user=llucassantana&theme=tokyonight"/>
 
 </div>
+
 
 <br>
 
