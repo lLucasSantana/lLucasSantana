@@ -1,27 +1,57 @@
-### Olá, tudo bem? Seja bem-vindo(a) a minha página do GitHub!✋
+# 👋 Olá | Hello
 
-- Lucas Santana, 23 anos, sou um desenvolvedor Front-end com formação técnica em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.
+## 💻 Sobre mim | About Me
 
-- Neste momento, estou focando meus estudos em programação, buscando constantemente aprimorar minhas habilidades como desenvolvedor Front-end, minha meta é ser um Full Stack.
+🇧🇷
 
-- 👨‍💻 Desenvolvedor
-- 🎓 Graduando em ADS
-- 🎓 Graduando em ADM
+Meu nome é **Lucas Santana**, tenho formação técnica em **Informática** e atualmente estou cursando:
 
+🎓 **Análise e Desenvolvimento de Sistemas (ADS)**  
+🎓 **Administração (ADM)**
 
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucassantana/) 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmsantana1509@gmail.com?subject=&body=) 
+Atualmente estou focado em desenvolvimento de software, com foco em **Front-end**, buscando evoluir para **Full Stack Developer**.
 
-![Lucas Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=llucassantana&show_icons=true&theme=dracula)
+🇺🇸
 
+My name is **Lucas Santana**, I have a technical background in **Information Technology** and I am currently studying:
 
-### Tecnologias 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+🎓 **Systems Analysis and Development (ADS)**  
+🎓 **Business Administration**
 
+Currently focused on software development, especially **Front-end**, aiming to become a **Full Stack Developer**.
 
-</div>
+---
 
+## 🚀 Atualmente estudando | Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Node.js
+- APIs
+- Git & GitHub
+
+---
+
+## 🛠 Tecnologias | Technologies
+
+(coloca as badges aqui)
+
+---
+
+## 📊 Estatísticas | GitHub Stats
+
+(coloca os cards aqui)
+
+---
+
+## 📫 Contato | Contact
+
+LinkedIn • Gmail
+
+---
+
+> 🇧🇷 Construindo projetos e evoluindo todos os dias.
+>
+> 🇺🇸 Building projects and improving every day.
