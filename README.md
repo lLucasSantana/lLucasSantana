@@ -95,7 +95,6 @@ My main area of interest today is **Front-end Development**, with the long-term 
 src="https://streak-stats.demolab.com?user=llucassantana&theme=tokyonight"/>
 
 </div>
----
 
 # 🎯 Objetivos | Goals
 
