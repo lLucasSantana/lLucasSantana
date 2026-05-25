@@ -92,7 +92,22 @@ My main area of interest today is **Front-end Development**, with the long-term 
 <div align="center">
 
 <img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=llucassantana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img
+height="180em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=llucassantana&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucassantana&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
