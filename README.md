@@ -95,27 +95,6 @@ My main area of interest today is **Front-end Development**, with the long-term 
 src="https://streak-stats.demolab.com?user=llucassantana&theme=tokyonight"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucassantana&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucassantana&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 🎯 Objetivos | Goals
