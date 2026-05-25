@@ -96,7 +96,6 @@ src="https://streak-stats.demolab.com?user=llucassantana&theme=tokyonight"/>
 
 </div>
 
-
 <br>
 
 <div align="center">
