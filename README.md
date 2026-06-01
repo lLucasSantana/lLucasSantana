@@ -5,7 +5,9 @@
 ### 🇧🇷 Português | 🇺🇸 English
 
 💻 Systems Analysis and Development Student  
-📚 Business Administration Student  
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+📚 Business Administration Student
+📚 Estudante de Administração de Empresas
 
 🚀 Front-end Developer • Future Full Stack Developer
 
