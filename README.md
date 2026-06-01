@@ -4,12 +4,9 @@
 
 ### 🇧🇷 Português | 🇺🇸 English
 
-🇺🇸 English
 💻 Systems Analysis and Development Student
 📚 Business Administration Student
 ---
-
-🇧🇷 Português 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 📚 Estudante de Administração de Empresas
 
