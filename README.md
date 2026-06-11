@@ -35,7 +35,7 @@ Minha principal área de interesse hoje é **Front-end**, mas meu objetivo é co
 
 ## 🇺🇸 English
 
-Hello! My name is **Lucas Santana**.
+Hello! My name is **Lucas Mateus Santana Da Silva**.
 
 I have a technical background in **Information Technology** and I am currently studying:
 
