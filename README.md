@@ -20,7 +20,7 @@
 
 ## 🇧🇷 Português
 
-Olá! Meu nome é **Lucas Santana**.
+Olá! Meu nome é **Lucas Mateus Santana Da Silva**.
 
 Tenho formação técnica em **Informática** e atualmente estou cursando:
 
